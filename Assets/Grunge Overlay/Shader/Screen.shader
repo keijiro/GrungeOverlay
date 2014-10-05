@@ -23,6 +23,9 @@ half4 frag(v2f_img i) : COLOR
     SubShader
     {
         Tags { "RenderType"="Overlay" "Queue"="Overlay" }
+        ZTest Always Cull Off ZWrite Off
+        Fog { Mode off }  
+        ColorMask RGB
         Pass
         {
             BlendOp RevSub
