@@ -4,7 +4,7 @@ GrungeOverlay
 GrungeOverlay is an attempt to make an Instagram-like post
 processing effect which can run on Unity Basic (free).
 
-![Screenshot](http://keijiro.github.io/GrungeOverlay/screenshot.jpg)
+![Screenshot](http://keijiro.github.io/GrungeOverlay/screenshot2.jpg)
 
 Acknowledgement
 ---------------
